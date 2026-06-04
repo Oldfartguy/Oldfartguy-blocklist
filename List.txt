@@ -25,3 +25,4 @@ supersonicads.com
 tblcontent.com
 taboola.map.fastly.net
 taboola.map
+tls13.taboola.map.fastly.net
