@@ -23,3 +23,5 @@ vungle.com
 ironsrc.com
 supersonicads.com
 tblcontent.com
+taboola.map.fastly.net
+taboola.map
