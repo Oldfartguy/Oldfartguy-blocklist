@@ -26,3 +26,5 @@ tblcontent.com
 taboola.map.fastly.net
 taboola.map
 tls13.taboola.map.fastly.net
+tracking.rus.miui.com
+app.bugsnag.com
