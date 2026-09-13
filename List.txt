@@ -28,3 +28,11 @@ taboola.map
 tls13.taboola.map.fastly.net
 tracking.rus.miui.com
 app.bugsnag.com
+! truyenqqgo.com
+||mplmncb.com^
+! baomoi
+||api.baomoi.com^
+! Shopee.vn
+||ubt.tracking.shopee.vn^
+||ubta.tracking.shopee.vn^
+||df.infra.sz.shopee.vn^
