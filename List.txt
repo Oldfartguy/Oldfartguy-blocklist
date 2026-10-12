@@ -36,3 +36,4 @@ app.bugsnag.com
 ||ubt.tracking.shopee.vn^
 ||ubta.tracking.shopee.vn^
 ||df.infra.sz.shopee.vn^
+api.tblcontent
